@@ -1,0 +1,34 @@
+Functions are group of statements that together performs the specific task.
+Extra information to input are arguments or parameters.
+Positional Arguments-order/position of the arguments matters.
+f formats string, example: print(f'Hello{name}Your name is {name}')
+Default Arguments takes new value if any other value is passed otherwise uses default value
+Assignment: Write a function that takes as many integers as you enter and returns the mean of those numbers.
+Module is file containing similar functions.
+Package are group of related modules.
+Group of related packages is library.
+Write a python function that takes as many arguments as entered and prints multiplication of those.
+
+
+OOP stands for object oriented programming.
+Object is instantiation of class.
+Class is blueprint of an object.
+__init__ create object property in RAM
+Variable whose value change from object to object is called instance Variable. It is refered by self.
+
+Define a class student with properties school name , school adress and school telephone no. Personal name age adress phone no, with mehod getfullname() and get age() getschoolname(), getschooladress()
+
+
+4 pillars of OOP:
+    Encapsulation = the process of binding properties and behaviour of class together.
+    Abstraction = the process of knowing only necessary details and hiding unnecessary details.
+    Inheritance = the process of gaining or acquiring properties from parent class. It creates reusable codes.
+    Polymerism = the method of sharing different form. Eg: 1+1 and '1'+'1' give different result.
+
+List Comprehension
+    The process of creating new list fom an existing list.
+
+
+Write a function that takes a string and returns the first vowel from that string.
+
+    
